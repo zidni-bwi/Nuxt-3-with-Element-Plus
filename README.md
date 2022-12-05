@@ -1,4 +1,4 @@
-# Nuxt v3 stable Minimal Starter (with Element Plus)
+# Nuxt v3 stable version (with Element Plus)
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
